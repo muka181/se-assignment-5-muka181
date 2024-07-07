@@ -9,8 +9,8 @@ Answer the following questions based on your understanding of the installation a
  **Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.**
 
 1. **Installation of VS Code:**
-   - Go to the [Visual Studio Code website](https://code.visualstudio.com/).
-   - Click the "Download" button for Windows.
+   + Go to the [Visual Studio Code website](https://code.visualstudio.com/).
+   + Click the "Download" button for Windows.
 
 2. **Run the Installer:**
    - Find the downloaded installer file in your Downloads folder.
